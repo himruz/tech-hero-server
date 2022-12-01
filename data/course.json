@@ -1,0 +1,255 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab61",
+    "category_id": "01",
+    "title": "The Complete Mern Stack Web Development",
+    "desc": "Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course.",
+    "duration": "12.00 hr",
+    "thumb": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/135104383/original/7a63dff333f4da32b2fc5b30232818d3a795f478/do-full-stack-mern-development-of-modern-web-applications.jpeg",
+    "price": "$1000",
+    "instructor": {
+      "img": "https://thumbs.dreamstime.com/b/headshot-portrait-smiling-businessman-posing-office-profile-picture-young-caucasian-suit-glasses-pose-modern-happy-214577125.jpg",
+      "name": "Hasan Imruz",
+      "designation": "BSc  Computer Science"
+    },
+    "learn": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab62",
+    "category_id": "01",
+    "title": "Programming with Javascript (Basic to Advance)",
+    "desc": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+    "duration": "12.00 hr",
+    "thumb": "https://miro.medium.com/max/1400/1*5eV1xmJs2-sJ4DdejfdnQA.png",
+    "price": "$1000",
+    "instructor": {
+      "img": "https://thumbs.dreamstime.com/b/headshot-portrait-smiling-businessman-posing-office-profile-picture-young-caucasian-suit-glasses-pose-modern-happy-214577125.jpg",
+      "name": "Hasan Imruz",
+      "designation": "BSc  Computer Science"
+    },
+    "learn": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab63",
+    "category_id": "01",
+    "title": "Wordpress for Beginners - Master Wordpress Quickly ",
+    "desc": "In 2022, build a beautiful responsive Wordpress site that looks great on all devices. No experience required.",
+    "duration": "12.00 hr",
+    "thumb": "https://www.mytechbits.com/wp-content/uploads/2021/06/mytechbits_image_3_6_2021.jpg",
+    "price": "$1000",
+    "instructor": {
+      "img": "https://thumbs.dreamstime.com/b/headshot-portrait-smiling-businessman-posing-office-profile-picture-young-caucasian-suit-glasses-pose-modern-happy-214577125.jpg",
+      "name": "Hasan Imruz",
+      "designation": "BSc  Computer Science"
+    },
+    "learn": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab64",
+    "category_id": "02",
+    "title": "Android Development Matser Course With Java",
+    "desc": "In this course, you'll learn Android Development and get to build your own Android S apps by using Java.",
+    "duration": "12.00 hr",
+    "thumb": "https://richestsoft.com/blog/wp-content/uploads/2019/02/Android-app-development.jpg",
+    "price": "$1000",
+    "instructor": {
+      "img": "https://thumbs.dreamstime.com/b/headshot-portrait-smiling-businessman-posing-office-profile-picture-young-caucasian-suit-glasses-pose-modern-happy-214577125.jpg",
+
+      "name": "Hasan Imruz",
+      "designation": "BSc  Computer Science"
+    },
+    "learn": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab65",
+    "category_id": "02",
+    "title": "The Complete Flutter Development Bootcamp with Dart",
+    "desc": "Officially created in collaboration with the Google Flutter team.",
+    "duration": "12.00 hr",
+    "thumb": "https://techspawn.com/wp-content/uploads/2022/08/flutter.jpeg",
+    "price": "$1000",
+    "instructor": {
+      "img": "https://thumbs.dreamstime.com/b/headshot-portrait-smiling-businessman-posing-office-profile-picture-young-caucasian-suit-glasses-pose-modern-happy-214577125.jpg",
+      "name": "Hasan Imruz",
+      "designation": "BSc  Computer Science"
+    },
+    "learn": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab66",
+    "category_id": "02",
+    "title": "Cross Platform App Development with React Native",
+    "desc": "Build native mobile apps for Android and iOS with just one language",
+    "duration": "12.00 hr",
+    "thumb": "https://www.imarkinfotech.com/wp-content/uploads/2019/07/react-blog-img.png",
+    "price": "$1000",
+    "instructor": {
+      "img": "https://thumbs.dreamstime.com/b/headshot-portrait-smiling-businessman-posing-office-profile-picture-young-caucasian-suit-glasses-pose-modern-happy-214577125.jpg",
+      "name": "Hasan Imruz",
+      "designation": "BSc  Computer Science"
+    },
+    "learn": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab67",
+    "category_id": "03",
+    "title": "UI / UX Design Specialization",
+    "desc": "Design High-Impact User Experiences. Research, design, and prototype effective, visually-driven websites and apps.",
+    "duration": "12.00 hr",
+    "thumb": "https://indi.tech/wp-content/uploads/2022/03/Screenshot-2022-03-24-223956.png",
+    "price": "$1000",
+    "instructor": {
+      "img": "https://thumbs.dreamstime.com/b/headshot-portrait-smiling-businessman-posing-office-profile-picture-young-caucasian-suit-glasses-pose-modern-happy-214577125.jpg",
+      "name": "Hasan Imruz",
+      "designation": "BSc  Computer Science"
+    },
+    "learn": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab68",
+    "category_id": "03",
+    "title": "Learn Figma - UI/UX Design Essential Training",
+    "desc": "Learn how to design a beautiful and engaging mobile app with Figma. Learn-by-doing approach.",
+    "duration": "12.00 hr",
+    "thumb": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1020492/image_19-06f13e29bee706189bb23a425ed5be68.png",
+    "price": "$1000",
+    "instructor": {
+      "img": "https://thumbs.dreamstime.com/b/headshot-portrait-smiling-businessman-posing-office-profile-picture-young-caucasian-suit-glasses-pose-modern-happy-214577125.jpg",
+      "name": "Hasan Imruz",
+      "designation": "BSc  Computer Science"
+    },
+    "learn": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab69",
+    "category_id": "03",
+    "title": "Master Web Design in Photoshop: Complete UI/UX Masterclass",
+    "desc": "Learn UI/UX and how to create stunning website | Everything you need to know about web design in 2022 | All in Photoshop",
+    "duration": "12.00 hr",
+    "thumb": "https://www.creativosonline.org/wp-content/uploads/2022/01/raw.jpg",
+    "price": "$1000",
+    "instructor": {
+      "img": "https://thumbs.dreamstime.com/b/headshot-portrait-smiling-businessman-posing-office-profile-picture-young-caucasian-suit-glasses-pose-modern-happy-214577125.jpg",
+      "name": "Hasan Imruz",
+      "designation": "BSc  Computer Science"
+    },
+    "learn": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6x",
+    "category_id": "04",
+    "title": "Facebook Marketing 2022: 1000% Facebook Engagement & Sales",
+    "desc": "Go viral, get more FB sharing! Facebook marketing & advertising strategies with business groups, pages, FB Live, Pixel",
+    "duration": "12.00 hr",
+    "thumb": "https://laptopempires.com/wp-content/uploads/2020/02/Best-Facebook-Marketing-Course.jpg",
+    "price": "$1000",
+    "instructor": {
+      "img": "https://thumbs.dreamstime.com/b/headshot-portrait-smiling-businessman-posing-office-profile-picture-young-caucasian-suit-glasses-pose-modern-happy-214577125.jpg",
+      "name": "Hasan Imruz",
+      "designation": "BSc  Computer Science"
+    },
+    "learn": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab611",
+    "category_id": "04",
+    "title": "Google Ads for Beginners",
+    "desc": "Learn how to effectively use Google Ads to reach more customers online and grow your business.",
+    "duration": "12.00 hr",
+    "thumb": "https://www.rushinparmar.com/wp-content/uploads/what-is-google-ads.jpg",
+    "price": "$1000",
+    "instructor": {
+      "img": "https://thumbs.dreamstime.com/b/headshot-portrait-smiling-businessman-posing-office-profile-picture-young-caucasian-suit-glasses-pose-modern-happy-214577125.jpg",
+      "name": "Hasan Imruz",
+      "designation": "BSc  Computer Science"
+    },
+    "learn": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab612",
+    "category_id": "04",
+    "title": "Complete SEO Training With Top SEO Expert Peter Kent!",
+    "desc": "Win The SEO Game & Dominate The Search Engines With the Author of Best-Selling Search Engine Optimization for Dummies.",
+    "duration": "12.00 hr",
+    "thumb": "https://www.tangolearn.com/wp-content/uploads/2021/09/seo-courses.jpg",
+    "price": "$1000",
+    "instructor": {
+      "img": "https://thumbs.dreamstime.com/b/headshot-portrait-smiling-businessman-posing-office-profile-picture-young-caucasian-suit-glasses-pose-modern-happy-214577125.jpg",
+      "name": "Hasan Imruz",
+      "designation": "BSc  Computer Science"
+    },
+    "learn": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing"
+    ]
+  }
+]
